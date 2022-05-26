@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-This small project was used to simulate movement using images of a character. This project was developed as part of the Professional Certificate in coding: Full Stack Software Development by The Massachusetts Institute of Technology.
+
 
 ## :sparkles: Features ##
 
