@@ -4,8 +4,8 @@
     container.style.width = width + 'px';
     
     const pacArray = [
-        ['coco1.png', 'coco2.png', 'coco3.png', 'coco4.png'],
-        ['coco5.png', 'coco6.png', 'coco7.png', 'coco8.png']
+        ['images/coco1.png', 'images/coco2.png', 'images/coco3.png', 'images/coco4.png'],
+        ['images/coco5.png', 'images/coco6.png', 'images/coco7.png', 'images/coco8.png']
     ];
     var direction = 0;
     var focus = 0;
