@@ -55,7 +55,7 @@ This small project was used to simulate movement using images of a character. Th
 
 ## :boom: Run web app! ##
 
-<a href="https://gibranalcazar.github.io/walker/" target="_blank">Link To Eyes</a>
+<a href="https://gibranalcazar.github.io/walker/" target="_blank">Link To Demo</a>
 
 ## :white_check_mark: Requirements ##
 
