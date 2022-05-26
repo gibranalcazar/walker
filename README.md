@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Walker" />
+  <img src="images/walker.png" alt="Walker" />
 
   &#xa0;
 
@@ -50,19 +50,12 @@ This small project was used to simulate movement using images of a character. Th
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: The image moves until it finds the edge of the screen\
+:heavy_check_mark: If you change the screen size, the movement finds the new boundary\
 
-## :rocket: Technologies ##
+## :boom: Run web app! ##
 
-The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+<a href="https://gibranalcazar.github.io/walker/" target="_blank">Link To Eyes</a>
 
 ## :white_check_mark: Requirements ##
 
@@ -77,13 +70,6 @@ $ git clone https://github.com/gibranalcazar/walker
 # Access
 $ cd walker
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
