@@ -1,0 +1,2 @@
+# walker
+Image simulating movement
